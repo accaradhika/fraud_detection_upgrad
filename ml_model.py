@@ -5,7 +5,7 @@ def model_1:
   print('code for model 1')
 
 def model_2:
-  print('code for model 2')
+  print('code for model 2_updated')
 
 def model_3:
   print('code for model 3')
