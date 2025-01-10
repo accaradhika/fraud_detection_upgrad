@@ -11,3 +11,5 @@ def model_3:
   print('code for model 3')
 
 print('model 2 is the final model based on accuracy')
+
+print('changes after first merge, lets see what happens now, will we face conflicts? where will these changes be saved - model or master?? lets see')
